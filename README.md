@@ -1,4 +1,5 @@
 <img src="https://github.com/CondInPunz/KNAI/blob/master/logo.png" height="200" align="left" vspace="50" hspace="50">
+
 # KNAI
 KNAI (KeyNoteAI) - это desktop-приложение, с помощью которого можно получить краткое содержание текста с выбранного вами изображения.
 
