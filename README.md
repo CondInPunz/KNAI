@@ -25,8 +25,10 @@ KNAI обладает уникальной возможностью распоз
 - Запустите desktop-приложение командой: python main.py.
 - Выберите изображение, содержащее текст.
 - Дождитесь распознавания текста и создания краткого содержания.
+- 
 # Вид приложения
-<img src="https://github.com/CondInPunz/KNAI/blob/master/screenshot1.png" height="200" align="left">
+<img src="https://github.com/CondInPunz/KNAI/blob/master/screenshot1.png">
+
 
 # Дополнительная информация
 - Репозиторий создан для участия в хакатоне CityHeroes командой MindCrafters.
