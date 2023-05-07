@@ -27,7 +27,7 @@ KNAI обладает уникальной возможностью распоз
 - Дождитесь распознавания текста и создания краткого содержания.
 - 
 # Вид приложения
-<img src="https://github.com/CondInPunz/KNAI/blob/master/screenshot1.png" height=1000>
+<img src="https://github.com/CondInPunz/KNAI/blob/master/screenshot1.png">
 
 
 # Дополнительная информация
