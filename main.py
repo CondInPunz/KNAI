@@ -19,10 +19,10 @@ class Client(QMainWindow):
     def init_ui(self):
         uic.loadUi("main_window.ui", self)
         self.show_request.connect(self.show_string)
-        self.submit.clicked.connect(self.bebra)
+        self.submit.clicked.connect(self.react)
 
-    def bebra(self):
-        def mini_bebra():
+    def react(self):
+        def convert():
             try:
                 self.sentence_quantity = self.output_size_sent.text()
                 print(self.sentence_quantity)
@@ -35,7 +35,7 @@ class Client(QMainWindow):
             except Exception as e:
                 print(e)
 
-        threading.Thread(target=mini_bebra).start()
+        threading.Thread(target=convert).start()
 
     def show_string(self, s):
         print(s)
